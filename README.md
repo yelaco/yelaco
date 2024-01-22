@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋! My name is Minh Quang and I'm a college student , from UET - VNU</h2>
+<h2 align="left">Hi there 👋!
 
 ###
 
