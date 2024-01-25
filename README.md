@@ -22,7 +22,7 @@
 <a href="https://www.kaggle.com/minhquangbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/minhquangbui" height="30" width="40" /></a>
 <a href="https://www.facebook.com/minhquang.bui.10690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/minhquang.bui.10690" height="30" width="40" /></a>
 <a href="https://leetcode.com/yelaco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yelaco/" height="30" width="40" /></a>
-<a href="https://minhquang053.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://minhquang053.github.io/feed.xml" height="30" width="40" /></a>
+<a href="https://minhquang053.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://minhquang053.github.io/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
