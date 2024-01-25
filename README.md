@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minhquangbui053@gmail.com**
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
