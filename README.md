@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquang053&label=Profile%20views&color=0e75b6&style=flat" alt="minhquang053" /> </p>
 <img align="right" height="160" src="https://media0.giphy.com/media/Hld1RfHBeQDmM/giphy.gif?cid=ecf05e47ds79nvebls1qtttrwff8zfzjlgxklamijdxoje16&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-- 🔭 I’m currently working on an [autonomous car](https://github.com/minhquang053/autonomous_car) project at my university
-- 🌱 I’m learning **fastai** library these days
+- 🔭 I’m currently working on a cool project
+- 🌱 I’m learning interesting things these days
 
 - 📝 I blog about my AI learning journey and projects here [https://minhquang053.github.io/](https://minhquang053.github.io/)
 
