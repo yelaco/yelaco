@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
-<h3 align="center">A Pythonista and AI practitioner</h3>
+<h3 align="center">An IT student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquang053&label=Profile%20views&color=0e75b6&style=flat" alt="minhquang053" /> </p>
 <img align="right" height="160" src="https://media0.giphy.com/media/Hld1RfHBeQDmM/giphy.gif?cid=ecf05e47ds79nvebls1qtttrwff8zfzjlgxklamijdxoje16&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m learning interesting things these days
 
-- 📝 I blog about my AI learning journey and projects [here](https://minhquang053.github.io/)
+- 📝 I blog about my learning journey and projects [here](https://minhquang053.github.io/)
 
 - 📫 How to reach me **minhquangbui053@gmail.com**
 
