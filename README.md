@@ -11,6 +11,9 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Devlog] Robinhood Chess #1](https://minhquang053.github.io/2024/06/13/robinhood_chess-devlog_1.html)
+- [[Project] Robinhood Chess](https://minhquang053.github.io/2024/06/13/robinhood_chess.html)
+- [[Project] Xe tự hành - Phần 1: Tránh vật cản với Q-Learning](https://minhquang053.github.io/2024/01/26/autocar_1.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
