@@ -6,10 +6,12 @@
 
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m learning interesting things these days
-
 - 📝 I blog about my learning journey and projects [here](https://minhquang053.github.io/)
-
 - 📫 How to reach me **minhquangbui053@gmail.com**
+
+### Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
