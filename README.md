@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m learning interesting things these days
-- 📝 I blog about my learning journey and projects [here](https://minhquang053.github.io/)
+- 📝 I blog about my learning journey and projects [here](https://yelaco.github.io/)
 - 📫 How to reach me **minhquangbui053@gmail.com**
 
 ### Latest blog posts
