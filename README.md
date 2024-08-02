@@ -9,13 +9,6 @@
 - 📝 I blog about my learning journey and projects [here](https://yelaco.github.io/)
 - 📫 How to reach me **minhquangbui053@gmail.com**
 
-### Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [[Devlog] Robinhood Chess #1](https://yelaco.github.io/2024/06/13/robinhood_chess-devlog_1.html)
-- [[Project] Robinhood Chess](https://yelaco.github.io/2024/06/13/robinhood_chess.html)
-- [[Project] Autonomous Vehicle #1: Obstacle avoidance](https://yelaco.github.io/2024/01/26/autocar_1.html)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bminhquang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bminhquang/" height="30" width="40" /></a>
