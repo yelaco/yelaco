@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
-<h3 align="center">A student in tech</h3>
+<h3 align="center">A Go Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquang053&label=Profile%20views&color=0e75b6&style=flat" alt="minhquang053" /> </p>
 <img align="right" height="160" src="https://media0.giphy.com/media/Hld1RfHBeQDmM/giphy.gif?cid=ecf05e47ds79nvebls1qtttrwff8zfzjlgxklamijdxoje16&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
