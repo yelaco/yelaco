@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m learning interesting things these days
+- ⚡ In my free time I [contribute](https://github.com/go-gang) to the Go open source community
 - 📫 How to reach me **minhquangbui053@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
