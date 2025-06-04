@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9b19afa-fbee-4633-af08-28ab054b39a8)
+![image](https://github.com/user-attachments/assets/13e03585-d715-40a1-94b6-b9c2a479e25b)
 
 ### 📊 GitHub Stats
 
